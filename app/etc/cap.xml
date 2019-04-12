@@ -1,0 +1,9 @@
+<admin>
+    <routers>
+        <adminhtml>
+            <args>
+                <frontName><![CDATA[cap]]></frontName>
+            </args>
+        </adminhtml>
+    </routers>
+</admin>
